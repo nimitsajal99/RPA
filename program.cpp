@@ -1,5 +1,6 @@
 using namespace std;
-void main()
+int main()
 {
   cout<<"Bye World";
+  return 0;
 }
